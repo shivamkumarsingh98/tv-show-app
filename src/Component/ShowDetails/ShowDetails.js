@@ -23,7 +23,7 @@ function ShowDetails() {
             .catch((error) => {
                 console.error('Error fetching details:', error.message, error.response);
             });
-    }, []);
+    }, [id]);
     return (
         <div>
             {Details ? (

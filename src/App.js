@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ShowsList from './page/ShowsList';
 import 'bootstrap/dist/css/bootstrap.min.css';
